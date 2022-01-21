@@ -1,5 +1,5 @@
 ## Affixe - Alice Ringström ✨
-Student at Midsweden University 
+Student at Mid Sweden University 
 
 🌱 Web development 
 
