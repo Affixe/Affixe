@@ -1,9 +1,7 @@
-## Affixe - Alice Ringström ✨
-Student at Mid Sweden University 
+## Affixe ✨
 
 🌱 Web development 
 
-⚡ I cannot operate without coffee
 
 <!--
 **Affixe/Affixe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
